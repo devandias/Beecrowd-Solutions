@@ -1,7 +1,7 @@
 # 🧠 Beecrowd Solutions
 
 Bem-vindo(a) ao repositório **Beecrowd Solutions**!  
-Aqui você encontrará minhas soluções para exercícios da plataforma [Beecrowd](https://www.beecrowd.com.br/), organizadas por linguagem e categoria.
+Aqui você encontrará minhas soluções para exercícios da plataforma [Beecrowd](https://www.beecrowd.com/), organizadas por linguagem e categoria.
 
 > Este projeto tem como objetivo praticar lógica de programação, algoritmos e manipulação de dados usando diferentes linguagens.
 
@@ -19,14 +19,12 @@ Aqui você encontrará minhas soluções para exercícios da plataforma [Beecrow
 
 ## 📁 Organização do Repositório
 
-\`\`\`
 Beecrowd-Solutions/
 ├── C++/
 ├── Java/
 ├── Python/
 ├── R/
 └── SQL/
-\`\`\`
 
 Cada pasta contém os arquivos de código-fonte das soluções, nomeados conforme o número ou título do exercício.
 
@@ -53,9 +51,9 @@ Cada pasta contém os arquivos de código-fonte das soluções, nomeados conform
 ## 🚀 Como usar este repositório
 
 1. Clone o repositório:
-   \`\`\`bash
+   
    git clone https://github.com/seu-usuario/Beecrowd-Solutions.git
-   \`\`\`
+   
 2. Navegue até a linguagem desejada.
 3. Execute o código com seu compilador ou interpretador favorito.
 
