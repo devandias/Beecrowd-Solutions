@@ -19,12 +19,14 @@ Aqui você encontrará minhas soluções para exercícios da plataforma [Beecrow
 
 ## 📁 Organização do Repositório
 
+```bash
 Beecrowd-Solutions/
 ├── C++/
 ├── Java/
 ├── Python/
 ├── R/
 └── SQL/
+```
 
 Cada pasta contém os arquivos de código-fonte das soluções, nomeados conforme o número ou título do exercício.
 
