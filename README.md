@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # 🧠 Beecrowd Solutions
 
 Bem-vindo(a) ao repositório **Beecrowd Solutions**!  
@@ -78,4 +77,3 @@ Este projeto está sob a licença **MIT** – veja o arquivo [LICENSE](LICENSE) 
 
 Feito com dedicação por **André Dias**  
 [🔗 GitHub](https://github.com/devandias)
-EOF
