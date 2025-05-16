@@ -46,16 +46,16 @@ Cada pasta contém os arquivos de código-fonte das soluções, nomeados conform
 
 ## 📌 Sobre o Beecrowd
 
-[Beecrowd](https://www.beecrowd.com.br/) (antigo URI Online Judge) é uma plataforma de **prática de programação** com centenas de exercícios divididos por níveis de dificuldade e categorias.
+[Beecrowd](https://www.beecrowd.com/) (antigo URI Online Judge) é uma plataforma de **prática de programação** com centenas de exercícios divididos por níveis de dificuldade e categorias.
 
 ---
 
 ## 🚀 Como usar este repositório
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/Beecrowd-Solutions.git
-   ```
+```bash
+git clone https://github.com/seu-usuario/Beecrowd-Solutions.git
+```
 2. Navegue até a linguagem desejada.
 3. Execute o código com seu compilador ou interpretador favorito.
 
@@ -75,5 +75,5 @@ Este projeto está sob a licença **MIT** – veja o arquivo [LICENSE](LICENSE) 
 
 ## 🙋‍♂️ Autor
 
-Feito com dedicação por **André Dias**  
+Feito com dedicação por **André Dias Neto**  
 [🔗 GitHub](https://github.com/devandias)
