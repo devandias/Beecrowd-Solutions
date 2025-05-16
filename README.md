@@ -53,9 +53,9 @@ Cada pasta contém os arquivos de código-fonte das soluções, nomeados conform
 ## 🚀 Como usar este repositório
 
 1. Clone o repositório:
-   
+   ```bash
    git clone https://github.com/seu-usuario/Beecrowd-Solutions.git
-   
+   ```
 2. Navegue até a linguagem desejada.
 3. Execute o código com seu compilador ou interpretador favorito.
 
